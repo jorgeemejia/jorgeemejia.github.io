@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1bb48bba.css",
+    "main.js": "/static/js/main.9f4ea4d2.js",
+    "static/media/BOMBFONT TRIAL.ttf": "/static/media/BOMBFONT TRIAL.b30bf538763da0a8cc66.ttf",
+    "static/media/yo.jpg": "/static/media/yo.31cec6545a6a4a4716ab.jpg",
+    "static/media/VCR.ttf": "/static/media/VCR.10cf96d54dcd9af0486c.ttf",
+    "static/media/pkat.png": "/static/media/pkat.1b343eeca665cb698f87.png",
+    "static/media/pkat2.png": "/static/media/pkat2.712be66c8f43886ad05f.png",
+    "static/media/Minecraft.ttf": "/static/media/Minecraft.81f6c7f882fcc2dee106.ttf",
+    "static/media/can_2.png": "/static/media/can_2.4ba86d80150dedf1af8d.png",
+    "static/media/web_card.png": "/static/media/web_card.27ea97afb97db27c29bd.png",
+    "index.html": "/index.html",
+    "main.1bb48bba.css.map": "/static/css/main.1bb48bba.css.map",
+    "main.9f4ea4d2.js.map": "/static/js/main.9f4ea4d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bb48bba.css",
+    "static/js/main.9f4ea4d2.js"
+  ]
+}
